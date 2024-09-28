@@ -1,11 +1,17 @@
 💫 About Me:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-👋 Hi, I’m @Madhusudan-Maity
+👋 Hi, I’m @Madhusudan-Maity.
+
 🔭 I’m currently working on a Malware Analysis Tool using the MERN stack and a Portfolio Website project.
+
 👯 I’m looking to collaborate on cybersecurity-related and web development projects.
+
 🤝 I’m looking for help with improving backend security and database management.
+
 🌱 I’m currently learning advanced JavaScript, Node.js, React.js.
+
 💬 Ask me about full-stack development, MERN stack in web applications.
+
 ⚡ Fun fact : I’m passionate about both creating secure web apps and learning new concepts in cyber security.
 
 
