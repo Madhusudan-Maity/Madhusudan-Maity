@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👋 Hi, I’m @Madhusudan-Maity.
 
-🔭 I’m currently working on a Malware Analysis Tool using the MERN stack and a Portfolio Website project.
+🔭 I’m currently working on a Malware Analysis Application using the MERN stack and a Portfolio Website project.
 
 👯 I’m looking to collaborate on cybersecurity-related and web development projects.
 
